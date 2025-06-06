@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/manna-ticket-admin/static/css/main.3c23df2b.css",
+    "main.js": "/manna-ticket-admin/static/js/main.8248f7c5.js",
+    "static/js/453.be6da67b.chunk.js": "/manna-ticket-admin/static/js/453.be6da67b.chunk.js",
+    "index.html": "/manna-ticket-admin/index.html",
+    "main.3c23df2b.css.map": "/manna-ticket-admin/static/css/main.3c23df2b.css.map",
+    "main.8248f7c5.js.map": "/manna-ticket-admin/static/js/main.8248f7c5.js.map",
+    "453.be6da67b.chunk.js.map": "/manna-ticket-admin/static/js/453.be6da67b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c23df2b.css",
+    "static/js/main.8248f7c5.js"
+  ]
+}
